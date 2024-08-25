@@ -1,3 +1,3 @@
 # Array
-This is my first Git Repositary
-- Simran Das
+This is my first Git Repositary.
+Author -Simran Das
